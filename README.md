@@ -7,8 +7,16 @@ Steps to follow:
 
 1)Install tkinter using this command
 
-```pip install tk```
+```
+
+pip install tk
+
+```
 
 2)Run the below command to start the project
 
-```py bmi_calculator.py```
+```
+
+py bmi_calculator.py
+
+```
